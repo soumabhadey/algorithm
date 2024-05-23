@@ -1,0 +1,3 @@
+Enter number of vertices: Enter adjacency matrix:-
+Enter source: Enter destination: Path: 0 --> 1 --> 3
+Total Cost = 4

@@ -1,0 +1,2 @@
+Enter number of vertices: Enter adjacency matrix:-
+Enter source: Enter destination: Path: 0 --> 3 --> 2

@@ -1,0 +1,8 @@
+Enter number of vertices: Enter adjacency matrix:-
+A---B
+D---C
+A---D
+A---E
+E---F
+F---G
+Total weight = 14
